@@ -25,10 +25,10 @@ Leveraged advanced Power BI features like custom filters, slicers, and dynamic v
 
 # Tools Used:
 
-Power BI for visualization and dashboard design.
 Python (Pandas) for data preparation and feature engineering.
 
-This project highlights my ability to combine technical skills with creative visualization to provide actionable insights.
+Power BI for visualization and dashboard design.
+
 # Dashboards
 ![Home Page](https://github.com/user-attachments/assets/658f2eee-938b-4421-a445-6c6b6f09e95d)
 ![Winter Page](https://github.com/user-attachments/assets/f3be3694-f04d-4ecc-89d9-5fa5d0f1ccef)
