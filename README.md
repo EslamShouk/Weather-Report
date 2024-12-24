@@ -27,7 +27,7 @@ Leveraged advanced Power BI features like custom filters, slicers, and dynamic v
 
 Power BI for visualization and dashboard design.
 Python (Pandas) for data preparation and feature engineering.
-Data Insights to drive storytelling and improve decision-making.
+
 This project highlights my ability to combine technical skills with creative visualization to provide actionable insights.
 # Dashboards
 ![Home Page](https://github.com/user-attachments/assets/658f2eee-938b-4421-a445-6c6b6f09e95d)
