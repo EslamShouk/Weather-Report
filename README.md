@@ -30,6 +30,8 @@ Python (Pandas) for data preparation and feature engineering.
 Power BI for visualization and dashboard design.
 
 # Dashboards
+to cheak the interactive dashboared in my portofolio: https://mavenanalytics.io/project/23598
+
 ![Home Page](https://github.com/user-attachments/assets/658f2eee-938b-4421-a445-6c6b6f09e95d)
 ![Winter Page](https://github.com/user-attachments/assets/f3be3694-f04d-4ecc-89d9-5fa5d0f1ccef)
 ![Spring Page](https://github.com/user-attachments/assets/dc12dc18-4303-46b1-9c10-6f16799fcdbe)
